@@ -1,0 +1,3 @@
+﻿  n4.cpp
+C:\Users\User\Desktop\Лабы\cpp\ОАиП\Lab19\n4\n4.cpp(9,6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  n4.vcxproj -> C:\Users\User\Desktop\Лабы\cpp\ОАиП\Lab19\x64\Debug\n4.exe
